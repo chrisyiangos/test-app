@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/chrisyiangos/test-app.svg?style=svg)](https://circleci.com/gh/chrisyiangos/test-app)
 
-# mainapp
+# mainapp 
 This application was generated using JHipster 5.3.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.1](https://www.jhipster.tech/documentation-archive/v5.3.1).
 
 ## Development
